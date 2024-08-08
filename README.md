@@ -31,7 +31,7 @@ This project is a web-based Tic Tac Toe game that you can play in your browser. 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/tic-tac-toe.git
+    git clone https://github.com/AnkitaPal-2002/tic-tac-toe.git
     ```
 
 2. Navigate to the project directory:
